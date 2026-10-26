@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:22D3EE&height=230&section=header&text=Orryson%20Yu%20Otuma&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20Mobile%20%7C%20Applied%20AI&descAlignY=58&descSize=14"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:22D3EE&height=230&section=header&text=Orryson%20Yu&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20Mobile%20%7C%20Applied%20AI&descAlignY=58&descSize=14"
     width="100%"
     alt="Orryson Yu Otuma — Software Engineering, Full-Stack Development, Mobile and Applied AI"
   />
