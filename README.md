@@ -58,14 +58,11 @@ My engineering approach emphasizes **clean architecture, maintainable code, thou
 
 Building responsive web interfaces, application logic, APIs, and data-driven applications.
 
-    </td>
-    <td width="50%" valign="top">
 
 ### 📱 Mobile Development
 
 Exploring Android application development, mobile user experiences, and Material-inspired interfaces.
 
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -74,14 +71,10 @@ Exploring Android application development, mobile user experiences, and Material
 
 Exploring machine learning fundamentals, data analysis, pattern recognition, and AI-assisted automation.
 
-    </td>
-    <td width="50%" valign="top">
-
 ### ⚙️ Software Engineering
 
 Interested in API integration, system architecture, software testing, clean code, and maintainable applications.
 
-    </td>
   </tr>
 </table>
 
@@ -161,9 +154,7 @@ can support more informed financial management.
   </a>
 </p>
 
-    </td>
-    <td width="50%" valign="top">
-
+  
 ### 🤖 [QuerySmith](https://github.com/OrrysonYU/QuerySmith)
 
 **Self-Healing SQL Data Analyst**
@@ -185,7 +176,6 @@ within a controlled execution process.
   </a>
 </p>
 
-    </td>
   </tr>
 
   <tr>
@@ -212,8 +202,7 @@ and interactive frontend work.
   </a>
 </p>
 
-    </td>
-    <td width="50%" valign="top">
+    
 
 ### 🎮 [KillTheFrog Unity Game](https://github.com/OrrysonYU/KillTheFrog-Unity-Game)
 
@@ -235,7 +224,7 @@ and fundamental game development concepts.
   </a>
 </p>
 
-    </td>
+    
   </tr>
 
   <tr>
@@ -260,8 +249,7 @@ A frontend mini-project featuring animated login and registration forms.
   </a>
 </p>
 
-    </td>
-    <td width="50%" valign="top">
+    
 
 ### 🧩 More Projects
 
@@ -278,7 +266,7 @@ My other development interests include:
   </a>
 </p>
 
-    </td>
+    
   </tr>
 </table>
 
